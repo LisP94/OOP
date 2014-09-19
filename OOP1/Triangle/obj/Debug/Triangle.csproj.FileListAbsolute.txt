@@ -1,0 +1,9 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Triangle.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Polygon.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Shapes.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Polygon.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\bin\Debug\Shapes.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\obj\Debug\Triangle.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Triangle\obj\Debug\Triangle.pdb

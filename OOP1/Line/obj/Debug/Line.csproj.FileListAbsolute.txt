@@ -1,0 +1,7 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\bin\Debug\Line.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\bin\Debug\Line.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\bin\Debug\Shapes.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\bin\Debug\Shapes.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\obj\Debug\Line.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP1\Line\obj\Debug\Line.pdb
