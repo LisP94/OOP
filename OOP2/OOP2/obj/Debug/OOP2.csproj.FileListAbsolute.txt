@@ -1,1 +1,9 @@
 c:\users\павел\documents\visual studio 2013\Projects\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.Cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\OOP2\obj\Debug\OOP2.pdb

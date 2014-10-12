@@ -9,18 +9,17 @@ namespace Ellipse
 {
     public class Ellipse: Shapes.Shapes
     {
-        Point point;
-        Size ellsize;
-        public Ellipse(Point centre, int a, int b)
+        Point begin;
+        Size size;
+        public Ellipse(Point[] point)
         {
-            point.X = centre.X-a;
-            point.Y = centre.Y - b;
-            ellsize.Width = a * 2;
-            ellsize.Height = b * 2;
+            begin=point[0];
+            size.Width = point[1].X - point[0].X;
+            size.Height = point[1].Y-point[0].Y;
         }
         public override void draw(Graphics e)
         {
-            e.DrawEllipse(Pens.Green, point.X,point.Y, ellsize.Width,ellsize.Height);
+            e.DrawEllipse(Pens.Green, begin.X,begin.Y, size.Width,size.Height);
         }
     }
 }

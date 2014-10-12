@@ -10,17 +10,17 @@ namespace Rectangle
     public class Rectangle: Polygon.Polygon
     {
         Point begin;
-        Size rectsize;
+        Size size;
         public Rectangle(Point[] contour) : base (contour)
         {
             begin.X = contour[0].X;
             begin.Y = contour[0].Y;
-            rectsize.Width = contour[1].X-contour[0].X;
-            rectsize.Height = contour[1].Y-contour[0].Y;
+            size.Width = contour[1].X-contour[0].X;
+            size.Height = contour[1].Y-contour[0].Y;
         }
         public override void draw(Graphics e)
         {
-            e.DrawRectangle(Pens.Red,begin.X,begin.Y,rectsize.Width,rectsize.Height);
+            e.DrawRectangle(Pens.Red,begin.X,begin.Y,size.Width,size.Height);
         }
     }
 }

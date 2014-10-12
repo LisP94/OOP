@@ -5,3 +5,10 @@ C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Ellipse\bin\Debug
 C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Ellipse\obj\Debug\Ellipse.csprojResolveAssemblyReference.cache
 C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Ellipse\obj\Debug\Ellipse.dll
 C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP1\Ellipse\obj\Debug\Ellipse.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\bin\Debug\Ellipse.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\bin\Debug\Ellipse.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\bin\Debug\Shapes.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\bin\Debug\Shapes.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\obj\Debug\Ellipse.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\obj\Debug\Ellipse.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP2\Ellipse\obj\Debug\Ellipse.pdb
