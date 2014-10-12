@@ -17,6 +17,7 @@ namespace OOP2
         Dictionary<string, Type> typesname = new Dictionary<string, Type>();
         List<Point> mousepoz = new List<Point>();
         Type type;
+        bool choice = false;
         public Form1()
         {
             InitializeComponent();
@@ -43,6 +44,7 @@ namespace OOP2
         private void MenuClick(object sender, EventArgs e)
         {
             type = typesname[sender.ToString()];
+            choice = true;
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
@@ -51,6 +53,40 @@ namespace OOP2
             point.X = e.X;
             point.Y = e.Y;
             mousepoz.Add(point);
+        }
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == 13 && choice)
+            {
+                if (mousepoz.Count < 2)
+                {
+                    MessageBox.Show("Enter >2 point!","ERROR");
+                    return;
+                }
+                Type[] args = new Type[1];
+                args[0] = typeof(Point[]);
+                object[] par = new object[1];
+                List<Point> list = new List<Point>();
+                list = mousepoz.GetRange(0, mousepoz.Count);
+                mousepoz.Clear();
+                par[0] = list.ToArray();
+                ConstructorInfo ci = type.GetConstructor(args);
+                FieldInfo[] fi = type.GetFields();
+                if (ci != null)
+                {
+                    object shape = ci.Invoke(par);
+                    MethodInfo[] mi = type.GetMethods();
+                    if (mi != null)
+                    {
+                        object[] metharg = new object[1];
+                        Graphics g = this.CreateGraphics();
+                        metharg[0] = g;
+                        mi[0].Invoke(shape, metharg);
+                    }
+                }
+
+            }
         }
 
     }
