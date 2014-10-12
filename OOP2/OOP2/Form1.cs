@@ -33,8 +33,24 @@ namespace OOP2
                 for (int j = 0; j < type.Length;j++ )
                 {
                     typesname.Add(type[j].Name, type[j]);
+                    ToolStripMenuItem item = new ToolStripMenuItem();
+                    item.Text = type[j].Name;
+                    item.Click += new EventHandler(MenuClick);
+                    toolsToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { item });
                 }
             }
+        }
+        private void MenuClick(object sender, EventArgs e)
+        {
+            type = typesname[sender.ToString()];
+        }
+
+        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        {
+            Point point = new Point();
+            point.X = e.X;
+            point.Y = e.Y;
+            mousepoz.Add(point);
         }
 
     }
