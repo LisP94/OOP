@@ -31,13 +31,16 @@ namespace OOP2
             {
                 Assembly assembly = Assembly.LoadFile(files[i]);
                 Type[] type = assembly.GetTypes();
-                for (int j = 0; j < type.Length;j++ )
+                for (int j = 0; j < type.Length; j++)
                 {
-                    typesname.Add(type[j].Name, type[j]);
-                    ToolStripMenuItem item = new ToolStripMenuItem();
-                    item.Text = type[j].Name;
-                    item.Click += new EventHandler(MenuClick);
-                    toolsToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { item });
+                    if (type[j].IsAbstract == false && type[j].IsSubclassOf(typeof(Shapes.Shapes)))
+                    {
+                        typesname.Add(type[j].Name, type[j]);
+                        ToolStripMenuItem item = new ToolStripMenuItem();
+                        item.Text = type[j].Name;
+                        item.Click += new EventHandler(MenuClick);
+                        toolsToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { item });
+                    }
                 }
             }
         }
@@ -61,7 +64,7 @@ namespace OOP2
             {
                 if (mousepoz.Count < 2)
                 {
-                    MessageBox.Show("Enter >2 point!","ERROR");
+                    MessageBox.Show("Enter >1 point!", "ERROR");
                     return;
                 }
                 Type[] args = new Type[1];
@@ -72,18 +75,11 @@ namespace OOP2
                 mousepoz.Clear();
                 par[0] = list.ToArray();
                 ConstructorInfo ci = type.GetConstructor(args);
-                FieldInfo[] fi = type.GetFields();
                 if (ci != null)
                 {
-                    object shape = ci.Invoke(par);
-                    MethodInfo[] mi = type.GetMethods();
-                    if (mi != null)
-                    {
-                        object[] metharg = new object[1];
-                        Graphics g = this.CreateGraphics();
-                        metharg[0] = g;
-                        mi[0].Invoke(shape, metharg);
-                    }
+                    Shapes.Shapes shape =(Shapes.Shapes)ci.Invoke(par);
+                    Graphics g = this.CreateGraphics();
+                    shape.draw(g);
                 }
 
             }
