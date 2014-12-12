@@ -2,56 +2,82 @@
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product xsi:type="Apple">
     <Taste>Sour</Taste>
-    <Weight>63</Weight>
+    <Weight>71</Weight>
     <Color>Red</Color>
-    <Swetness>14</Swetness>
+    <Swetness>21</Swetness>
+  </Product>
+  <Product xsi:type="Beef">
+    <Taste>Meat</Taste>
+    <Weight>94</Weight>
+    <Fatness>41</Fatness>
+    <Softness>99</Softness>
+    <Roasted>0</Roasted>
+  </Product>
+  <Product xsi:type="Cabbage">
+    <Taste>Cabbage</Taste>
+    <Weight>39</Weight>
+    <Size>77</Size>
+    <LeafCount>19</LeafCount>
   </Product>
   <Product xsi:type="Orange">
     <Taste>Sweet</Taste>
-    <Weight>97</Weight>
+    <Weight>63</Weight>
     <Color>Orange</Color>
-    <Juiciness>62</Juiciness>
+    <Juiciness>77</Juiciness>
     <Slice>
       <OrangeSlice>
-        <GrainCount>228</GrainCount>
-        <SeedCount>2</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>226</GrainCount>
-        <SeedCount>3</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>322</GrainCount>
-        <SeedCount>0</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>183</GrainCount>
-        <SeedCount>3</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>132</GrainCount>
-        <SeedCount>0</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>127</GrainCount>
-        <SeedCount>2</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>136</GrainCount>
-        <SeedCount>0</SeedCount>
-      </OrangeSlice>
-      <OrangeSlice>
-        <GrainCount>323</GrainCount>
+        <GrainCount>114</GrainCount>
         <SeedCount>1</SeedCount>
       </OrangeSlice>
       <OrangeSlice>
-        <GrainCount>288</GrainCount>
+        <GrainCount>150</GrainCount>
+        <SeedCount>3</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>175</GrainCount>
+        <SeedCount>1</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>485</GrainCount>
         <SeedCount>0</SeedCount>
       </OrangeSlice>
       <OrangeSlice>
-        <GrainCount>225</GrainCount>
+        <GrainCount>280</GrainCount>
+        <SeedCount>1</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>126</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>161</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>496</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>331</GrainCount>
+        <SeedCount>3</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>482</GrainCount>
         <SeedCount>1</SeedCount>
       </OrangeSlice>
     </Slice>
+  </Product>
+  <Product xsi:type="Pork">
+    <Taste>Meat</Taste>
+    <Weight>437</Weight>
+    <Fatness>77</Fatness>
+    <Softness>45</Softness>
+    <Jerking>0</Jerking>
+  </Product>
+  <Product xsi:type="Potato">
+    <Taste>Potato</Taste>
+    <Weight>91</Weight>
+    <Size>33</Size>
+    <StarchCount>96</StarchCount>
   </Product>
 </ArrayOfProduct>

@@ -38,9 +38,9 @@ namespace OOP3
                 Type[] type = assembly.GetTypes();
                 for (int j = 0; j < type.Length; j++)
                 {
+                    typesname.Add(type[j].Name, type[j]);
                     if (type[j].IsAbstract == false && type[j].IsSubclassOf(typeof(Product)))
                     {
-                        typesname.Add(type[j].Name, type[j]);
                         ToolStripMenuItem item = new ToolStripMenuItem();
                         item.Text = type[j].Name;
                         item.Click += new EventHandler(MenuClick);
@@ -218,6 +218,28 @@ namespace OOP3
             {
                 productList.Clear();
                 productList = (List<Product>)xmlSerializer.Deserialize(fileStream);
+                treeView1.Nodes.Clear();
+                treeView1.Nodes.Add(TreeBuilder.GetTree(productList));
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var textSerializer = new Serializer(typesname);
+            using (var fileStream = new FileStream("TextSerialize.Txt", FileMode.Create))
+            {
+                var stream = new StreamWriter(fileStream) { AutoFlush = true };
+                textSerializer.Serialize(stream, productList);
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            var textSerializer = new Serializer(typesname);
+            using (var fileStream = new FileStream("TextSerialize.Txt", FileMode.Open))
+            {
+                var stream = new StreamReader(fileStream);
+                productList = (List<Product>)textSerializer.Deserialize(stream);
                 treeView1.Nodes.Clear();
                 treeView1.Nodes.Add(TreeBuilder.GetTree(productList));
             }
