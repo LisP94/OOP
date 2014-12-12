@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product xsi:type="Apple">
+    <Taste>Sour</Taste>
+    <Weight>63</Weight>
+    <Color>Red</Color>
+    <Swetness>14</Swetness>
+  </Product>
+  <Product xsi:type="Orange">
+    <Taste>Sweet</Taste>
+    <Weight>97</Weight>
+    <Color>Orange</Color>
+    <Juiciness>62</Juiciness>
+    <Slice>
+      <OrangeSlice>
+        <GrainCount>228</GrainCount>
+        <SeedCount>2</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>226</GrainCount>
+        <SeedCount>3</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>322</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>183</GrainCount>
+        <SeedCount>3</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>132</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>127</GrainCount>
+        <SeedCount>2</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>136</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>323</GrainCount>
+        <SeedCount>1</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>288</GrainCount>
+        <SeedCount>0</SeedCount>
+      </OrangeSlice>
+      <OrangeSlice>
+        <GrainCount>225</GrainCount>
+        <SeedCount>1</SeedCount>
+      </OrangeSlice>
+    </Slice>
+  </Product>
+</ArrayOfProduct>

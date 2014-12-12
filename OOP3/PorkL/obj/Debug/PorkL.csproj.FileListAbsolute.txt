@@ -1,0 +1,9 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\PorkL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\PorkL.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\MeatL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\MeatL.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\bin\Debug\Products.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\obj\Debug\PorkL.csprojResolveAssemblyReference.cache
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\obj\Debug\PorkL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PorkL\obj\Debug\PorkL.pdb

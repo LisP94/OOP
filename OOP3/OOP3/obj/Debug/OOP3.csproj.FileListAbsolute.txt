@@ -1,0 +1,11 @@
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\bin\Debug\OOP3.exe.config
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\bin\Debug\OOP3.exe
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\bin\Debug\OOP3.pdb
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.csprojResolveAssemblyReference.cache
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.Form1.resources
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.csproj.GenerateResource.Cache
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.exe
+c:\users\павел\documents\visual studio 2013\Projects\OOP3\OOP3\obj\Debug\OOP3.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\OOP3\bin\Debug\Products.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\OOP3\bin\Debug\Products.pdb
