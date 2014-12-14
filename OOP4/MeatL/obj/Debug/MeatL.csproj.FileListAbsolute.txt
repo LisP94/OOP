@@ -1,0 +1,7 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\bin\Debug\MeatL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\bin\Debug\MeatL.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\bin\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\bin\Debug\Products.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\obj\Debug\MeatL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\obj\Debug\MeatL.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\MeatL\obj\Debug\MeatL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\bin\Debug\EmptyConverter.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\bin\Debug\EmptyConverter.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\bin\Debug\Converter.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\bin\Debug\Converter.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\obj\Debug\EmptyConverter.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\EmptyConverter\obj\Debug\EmptyConverter.pdb

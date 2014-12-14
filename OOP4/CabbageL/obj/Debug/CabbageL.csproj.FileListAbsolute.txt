@@ -1,0 +1,9 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\CabbageL.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\CabbageL.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\Products.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\Vegetables.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\Products.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\bin\Debug\Vegetables.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\obj\Debug\CabbageL.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\obj\Debug\CabbageL.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP3\CabbageL\obj\Debug\CabbageL.pdb

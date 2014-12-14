@@ -1,0 +1,5 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Products\bin\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Products\bin\Debug\Products.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Products\obj\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Products\obj\Debug\Products.pdb

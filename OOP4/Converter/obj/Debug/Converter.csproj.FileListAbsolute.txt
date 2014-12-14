@@ -1,0 +1,5 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\Converter\bin\Debug\Converter.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\Converter\bin\Debug\Converter.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\Converter\obj\Debug\Converter.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\OOP4\Converter\obj\Debug\Converter.pdb

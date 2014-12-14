@@ -1,0 +1,9 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Apples.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Apples.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\obj\Debug\Apples.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\obj\Debug\Apples.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\obj\Debug\Apples.csprojResolveAssemblyReference.cache
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Fruits.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Fruits.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\Apples\bin\Debug\Products.pdb

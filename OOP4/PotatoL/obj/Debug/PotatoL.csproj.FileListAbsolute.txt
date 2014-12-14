@@ -1,0 +1,9 @@
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\obj\Debug\PotatoL.csprojResolveAssemblyReference.cache
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\PotatoL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\PotatoL.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\Products.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\Vegetables.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\Products.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\bin\Debug\Vegetables.pdb
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\obj\Debug\PotatoL.dll
+c:\Users\Павел\documents\visual studio 2013\Projects\OOP3\PotatoL\obj\Debug\PotatoL.pdb
