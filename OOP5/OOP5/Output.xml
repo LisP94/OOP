@@ -1,0 +1,29 @@
+<element>
+  <subelement>
+    <attributes>
+      <it1>
+        www
+      </it1>
+      <it2>
+        ttt
+      </it2>
+    </attributes>
+    <text>
+      fds
+    </text>
+  </subelement>
+  <attributes>
+    <it1>
+      qqq
+    </it1>
+    <it2>
+      eee
+    </it2>
+    <it3>
+      ggg
+    </it3>
+  </attributes>
+  <text>
+    text1 dfjks
+  </text>
+</element>

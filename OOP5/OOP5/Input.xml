@@ -1,0 +1,7 @@
+<element it1="qqq" it2="eee" it3="ggg">
+  text1
+  <subelement it1="www" it2="ttt">
+   fds
+  </subelement>
+  dfjks
+</element>
